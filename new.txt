@@ -1,0 +1,5 @@
+Name - Anton Pozdin
+Age - 32
+Pet - 0
+Future salary - 2000$
+
