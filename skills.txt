@@ -1,0 +1,8 @@
+english
+docker
+python
+terminal
+github
+postman
+mobile qa
+
